@@ -9,10 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{348BB47C-CBBE-4170-B696-29DE191E994E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{F2345BC5-FF8D-4860-AA40-216F9DD7DC04}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{F6F01B55-4CC3-4DA8-9D6C-DF2F5945DE34}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,14 +27,6 @@ Global
 		{348BB47C-CBBE-4170-B696-29DE191E994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{348BB47C-CBBE-4170-B696-29DE191E994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{348BB47C-CBBE-4170-B696-29DE191E994E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F2345BC5-FF8D-4860-AA40-216F9DD7DC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F2345BC5-FF8D-4860-AA40-216F9DD7DC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F2345BC5-FF8D-4860-AA40-216F9DD7DC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F2345BC5-FF8D-4860-AA40-216F9DD7DC04}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6F01B55-4CC3-4DA8-9D6C-DF2F5945DE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6F01B55-4CC3-4DA8-9D6C-DF2F5945DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6F01B55-4CC3-4DA8-9D6C-DF2F5945DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6F01B55-4CC3-4DA8-9D6C-DF2F5945DE34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
